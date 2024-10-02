@@ -58,6 +58,3 @@ This project was a great introduction to data visualization using Python. Moving
 ## **Why Visualization Matters**
 Data visualization is a powerful tool that helps to make sense of raw data by revealing trends, patterns, and outliers. It bridges the gap between complex data and actionable insights, making it easier to communicate findings to others, regardless of technical expertise.
 
----
-
-This version is more focused on the project itself, providing useful information to anyone who might want to replicate or understand the task. It's concise, to the point, and emphasizes the significance of data visualization.
